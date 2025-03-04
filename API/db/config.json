@@ -1,0 +1,4 @@
+{
+    "driverName": "mysql",
+    "dataSourceName":"egs:eg12@tcp(localhost:3306)/person"
+}
